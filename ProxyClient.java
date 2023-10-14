@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class ProxyClient {
     public static void main(String[] args) {
+        // Defining Colors
+        String RESET = "\u001B[0m";
+        String RED = "\u001B[31m";
+        String GREEN = "\u001B[32m";
+        String YELLOW = "\u001B[33m";
 
         // Proxy server address
         String proxyHost = "localhost";
@@ -29,7 +34,7 @@ public class ProxyClient {
             BufferedReader proxyIn = new BufferedReader(new InputStreamReader(proxySocket.getInputStream()));
             String responseLine;
             while ((responseLine = proxyIn.readLine()) != null) {
-                System.out.println(responseLine);
+                System.out.println(YELLOW + responseLine + RESET);
             }
 
             // Close the proxy socket
