@@ -81,7 +81,6 @@ class ProxyThread implements Runnable {
             clientSocket.close();
 
         } catch (IOException e) {
-//            clientOut.println(RED  + "error in the url " + RESET);
             System.out.println(RED);
             e.printStackTrace();
             System.out.println(RESET);
