@@ -1,11 +1,13 @@
 <h1 align="center">Multi-proxy-server Jesse,Bright,Tiffany and Yulduz</h1>
 - 🔭 We are currently working on **Multi-proxy-server**
-<h3 align="left">Objective:
-Develop a multi-threaded proxy server and client. The server accepts any URL from the client, fetches output, and returns to the client. The client should be able to save the output into HTML page with an appropriate name.</h3>
+<h3 align="left">Objective:</h3>
+<p align ="left"> Develop a multi-threaded proxy server and client. The server accepts any URL from the client, fetches output, and returns to the client. The client should be able to save the output into HTML page with an appropriate name.</p>
 
 
 <h3 align="left">Proxy Diagram</h3>
 ![How-Does-The-Proxy-Server-Operates](https://github.com/Mutli-proxy-ser/Multi-proxy-server/assets/83932225/c9f4ef8d-8b93-47a2-b23a-d86608eacb66)
+
+<img src="/Multi-proxy-server/IMG/proxy_img.png"><br>
 
 <h3 align="left">Connect with us:</h3>
 <p style="display: flex; align-items: center;">
