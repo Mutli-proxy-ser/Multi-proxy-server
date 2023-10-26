@@ -5,7 +5,7 @@ Develop a multi-threaded proxy server and client. The server accepts any URL fro
 
 
 <h3 align="left">Proxy Diagram</h3>
-<img  src="/Multi-proxy-server/IMG/proxy_img.png"/>
+<img  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fproxy-server-system-design-primers-md-imtiyaz-hossain&psig=AOvVaw14wy6mWgICN8h_aAdiWw0L&ust=1698438221582000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCu-srFlIIDFQAAAAAdAAAAABAQ"/>
 
 <h3 align="left">Connect with us:</h3>
 <p style="display: flex; align-items: center;">
