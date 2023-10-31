@@ -23,8 +23,8 @@ All commands are run from the root of the project, from a terminal:
 
 | Command                | Action                                           |
 | :--------------------- | :----------------------------------------------- |
-| `javac ProxyClient.java `   | Compile the Java file Client file           |
-| `javac ProxyServer.java`    | Compile the Java file Server file      |
+| `javac ProxyClient.java `   | Compile the Java Client file           |
+| `javac ProxyServer.java`    | Compile the Java Server file      |
 | `java ProxyServer.java`        |Run the Server file first          |
 | `java ProxyClient.java`      | Run the Client file afterwards     |
 
