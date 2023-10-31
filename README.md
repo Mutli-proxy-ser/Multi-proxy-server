@@ -4,6 +4,32 @@
 <p align ="left"> Develop a multi-threaded proxy server and client. The server accepts any URL from the client, fetches output, and returns to the client. The client should be able to save the output into HTML page with an appropriate name.</p>
 
 
+
+## 🚀 Project Structure
+
+Inside of your Multi-proxy-server project, you'll see the following folders and files:
+
+```
+├── IMG/
+│   ├── images.png
+│   ├── networking-udp_mobile.png
+│   └── proxy_img.png
+├── ProxyClient.java
+├── README.md
+└── ProxyServer.java
+```
+<h3 align="left">💻 Commands</h3>
+All commands are run from the root of the project, from a terminal:
+
+| Command                | Action                                           |
+| :--------------------- | :----------------------------------------------- |
+| `javac ProxyClient.java `   | Compile the Java file Client file           |
+| `javac ProxyServer.java`    | Compile the Java file Server file      |
+| `java ProxyServer.java`        |Run the Server file first          |
+| `java ProxyClient.java`      | Run the Client file afterwards     |
+
+<br>
+
 <h3 align="left">Proxy Diagram</h3>
 
 <img src="/Multi-proxy-server/IMG/images.png"/><br>
