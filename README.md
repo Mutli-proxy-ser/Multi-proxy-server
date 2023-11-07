@@ -30,6 +30,14 @@ All commands are run from the root of the project, from a terminal:
 
 <br>
 
+### :hammer_and_wrench: GIF EXAMPLE :
+
+<img src="http://g.recordit.co/OAEDdqpOo0.gif">
+<img src="http://g.recordit.co/OAEDdqpOo0.gif">
+
+
+
+
 <h3 align="left">Proxy Diagram</h3>
 
 <img src="/Multi-proxy-server/IMG/images.png"/><br>
